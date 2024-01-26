@@ -4,8 +4,8 @@ import datetime
 import emoji
 import telebot
 
-allowed_usernames = ["MashaLalala3377400001999755599","isayzi", "JadBuBu", "nixxzq", "ImaoryI"]
-bot = telebot.TeleBot('6846130267:AAGRNpl7damVs0f61p9uwXJm1XgZRknO0AQ')
+allowed_usernames = ["YOUR_TELEGRAM_USER_NAMES"]
+bot = telebot.TeleBot('YOUR TOKEN')
 
 
 
